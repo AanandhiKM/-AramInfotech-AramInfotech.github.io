@@ -29,9 +29,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AanandhiKM"
+    "url": "https://github.com/AanandhiKM/AramInfotech.github.io"
   },
-  "homepage": "https://github.com/AanandhiKM/AramInfotech.github.io",
+  "homepage": "https://AanandhiKM.github.io/AramInfotech.github.io",
   "eslintConfig": {
     "extends": [
       "react-app",
