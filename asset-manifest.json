@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AanandhiKM/AramInfotech.github.io/static/css/main.16dec71b.css",
+    "main.js": "/AanandhiKM/AramInfotech.github.io/static/js/main.a7b32f20.js",
+    "static/js/453.04e918fc.chunk.js": "/AanandhiKM/AramInfotech.github.io/static/js/453.04e918fc.chunk.js",
+    "index.html": "/AanandhiKM/AramInfotech.github.io/index.html",
+    "main.16dec71b.css.map": "/AanandhiKM/AramInfotech.github.io/static/css/main.16dec71b.css.map",
+    "main.a7b32f20.js.map": "/AanandhiKM/AramInfotech.github.io/static/js/main.a7b32f20.js.map",
+    "453.04e918fc.chunk.js.map": "/AanandhiKM/AramInfotech.github.io/static/js/453.04e918fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16dec71b.css",
+    "static/js/main.a7b32f20.js"
+  ]
+}
